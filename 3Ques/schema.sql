@@ -1,0 +1,5 @@
+CREATE TABLE cart (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    item VARCHAR(50),
+    price INT
+);
