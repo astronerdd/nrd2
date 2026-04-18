@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+}
+
+.container {
+    width: 300px;
+    margin: 80px auto;
+}
+
+#Register {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 6px;
+    margin: 5px 0;
+}
+
+button {
+    padding: 6px 10px;
+    margin-top: 5px;
+}
+
+#message {
+    margin-top: 10px;
+}
